@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohammad  <br>💻 Software Engineer & Web Developer  <br>🔥 I turn ideas into real products, not just code  <br>🧩 Interested in AI, automation, and building developer tools  <br>✍️ I write technical content and share real experiences at Code Altatwir  <br>🎯 Long-term thinker, short-term executor<br>
+👋 Hi, I'm Mohammad  <br>💻 Software Engineer & Web Developer  <br>🔥 I turn ideas into real products, not just code  <br>🧩 Interested in AI, automation, and building developer tools  <br>✍️ I write technical content and share real experiences at Code elta6ur  <br>🎯 Long-term thinker, short-term executor<br>
 
 
 ## 🌐 Socials:
